@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://medzak.pl/sitemap.xml

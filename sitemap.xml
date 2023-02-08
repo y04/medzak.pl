@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://medzak.pl/</loc>
+		<changefreq>never</changefreq>
+		<priority>0.8</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+	<url>
+		<loc>https://medzak.pl/en/</loc>
+		<changefreq>never</changefreq>
+		<priority>0.7</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+		<url>
+		<loc>https://medzak.pl/de/</loc>
+		<changefreq>never</changefreq>
+		<priority>0.6</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+	<url>
+		<loc>https://medzak.pl/sk/</loc>
+		<changefreq>never</changefreq>
+		<priority>0.4</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+	<url>
+		<loc>https://medzak.pl/cs/</loc>
+		<changefreq>never</changefreq>
+		<priority>0.2</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+	<url>
+		<loc>https://medzak.pl/uk/</loc>
+		<changefreq>never</changefreq>
+		<priority>0.3</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+	<url>
+		<loc>https://medzak.pl/be/</loc>
+		<changefreq>never</changefreq>
+		<priority>0.1</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+	<url>
+		<loc>https://medzak.pl/ru</loc>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="https://medzak.pl/"/>
+		<xhtml:link rel="alternate" hreflang="en" href="https://medzak.pl/en/"/>
+		<xhtml:link rel="alternate" hreflang="de" href="https://medzak.pl/de/"/>
+		<xhtml:link rel="alternate" hreflang="sk" href="https://medzak.pl/sk/"/>
+		<xhtml:link rel="alternate" hreflang="cs" href="https://medzak.pl/cs/"/>
+		<xhtml:link rel="alternate" hreflang="uk" href="https://medzak.pl/uk/"/>
+		<xhtml:link rel="alternate" hreflang="be" href="https://medzak.pl/be/"/>
+		<xhtml:link rel="alternate" hreflang="ru" href="https://medzak.pl/ru/"/>
+	</url>
+</urlset>
