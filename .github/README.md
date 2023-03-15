@@ -23,4 +23,6 @@ You can view online demo [here](https://medzak.pl/).
 ![PageSpeed score](PageSpeed.png)
 
 ## License
-This template is in the public domain and can be freely used for any purposes.
+This template is in the public domain and can be freely used for any purposes unless specified otherwise.
+
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
