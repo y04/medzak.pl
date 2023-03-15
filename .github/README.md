@@ -1,10 +1,9 @@
 ## About
-Minimalistic landing page for local business point of sale with contact data and location map.
+Minimalistic landing page with contact data and location map for local business point of sale.
 
 ## Features
-List of features:
-- Mobile first rendering
 - Responsive design
+- Mobile first rendering
 - Pure HTML and CSS
 - No JavaScript
 - No Frameworks
@@ -20,7 +19,7 @@ List of features:
 You can view online demo [here](https://medzak.pl/).
 
 ## PageSpeed score
-![PageSpeed score](PageSpeed.png)
+![PageSpeed score](./PageSpeed.png)
 
 ## License
 This project is in the Public Domain and can be freely used for any purposes.
