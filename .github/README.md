@@ -19,7 +19,7 @@ Minimalistic landing page with contact data and location map for local business 
 You can view online demo [here](https://medzak.pl/).
 
 ## PageSpeed score
-![PageSpeed score](./PageSpeed.png)
+![PageSpeed score](PageSpeed.png)
 
 ## License
 This project is in the Public Domain and can be freely used for any purposes.
