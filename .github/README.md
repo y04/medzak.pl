@@ -24,9 +24,9 @@ You can view online demo [here](https://medzak.pl/).
 
 ## PageSpeed Insights score
 Mobile: Performance 100/100, Accessibility 100/100, Best Practices 100/100, SEO 100/100
-![Mobile PageSpeed Insights scores](PageSpeed-Mobile.png)  
+![Screenshot of the PageSpeed Insights Mobile scores](PageSpeed-Mobile.png)\
 Desktop: Performance 100/100, Accessibility 100/100, Best Practices 100/100, SEO 100/100
-![Desktop PageSpeed Insights scores](PageSpeed-Desktop.png)  
+![Screenshot of the PageSpeed Insights Desktop scores](PageSpeed-Desktop.png)\
 Full original report [here](https://pagespeed.web.dev/analysis/https-medzak-pl/27q1ruitat).
 
 ## License
