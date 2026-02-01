@@ -4,6 +4,7 @@ Minimalistic landing page template with contact data and location map for local 
 ## Features
 - Responsive design
 - Mobile first rendering
+- Smooth startup animation
 - Pure HTML and CSS
 - No JavaScript
 - No frameworks and unnecessary dependencies
